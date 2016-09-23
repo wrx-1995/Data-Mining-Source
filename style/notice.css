@@ -1,0 +1,25 @@
+#content{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background: #fff;
+	color: #333;
+}
+#content a{
+	color: #333;
+	margin-left: 15px;
+}
+#content a:hover{
+	text-decoration: underline;
+	color: red;
+}
+#content h1{
+	text-align: center;
+	line-height: 2em;
+}
+#content p{
+	text-indent: 2em;
+	width: 850px;
+	margin: 5px auto;
+	line-height: 1.8em;
+	font-size: 1.1em;
+}

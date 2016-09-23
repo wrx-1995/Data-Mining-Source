@@ -1,0 +1,56 @@
+#anc{
+	position: fixed;
+	top: 180px;
+	right:10px; 
+	width: 150px;
+	height: 225px;
+	background: #fff;
+	border:1px solid #999;
+}
+#anc ul{
+	margin-top: 10px;
+	list-style: none;
+	line-height: 2em;
+}
+#anc ul li{
+	text-indent: -0.8em;
+	margin:0 12px 0 18px;
+}
+#anc ul li a:hover{
+	text-decoration: underline;
+}
+#content{
+	background: #fff;
+	color: #333;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	overflow: hidden;
+}
+#content h1{
+	text-align: center;
+	color: #000;
+	font-size: 36px;
+	line-height: 60px; 
+}
+#content h3{
+	line-height: 2em;
+	margin-left: 80px;
+	font-size: 1.2em;
+}
+#content p{
+	text-indent: 2em;
+	width: 850px;
+	margin: 5px auto;
+	line-height: 1.8em;
+	font-size: 1.1em;
+}
+#content p.more-intro{
+	margin-left: 620px;
+}
+#content p a{
+	color: #333;
+}
+#content p a:hover{
+	text-decoration: underline;
+}
+

@@ -1,0 +1,167 @@
+#content{
+	background: #fff;
+	color: #333;
+	height: 920px;
+}
+#content div{	
+	width: 480px;
+	height: 300px;
+	float: left;
+}
+#content div p{
+	margin-left: 85px;
+	width: 210px;
+	text-indent: 2em;
+	line-height: 1.8em;
+}
+#content div ul{
+	margin-left: 100px;
+}
+#content div ul li{
+	margin-top: 8px;
+}
+#content div span.brief{
+	color: #000;
+	font-weight: bold;
+}
+#content div a{
+	color: #333;
+	display: inline-block;
+}
+#content div a:hover{
+	text-decoration: underline;
+}
+#content #spss h1{
+	margin: 15px 0 0 40px;
+	width: 192px;
+	height: 50px;
+	background: url(../images/logo1.png) no-repeat;
+	text-indent: -9999px;
+}
+#content #spss span{
+	display: inline-block;
+	margin: 22px 0 0 60px;
+}
+#content #spss h3{
+	color: #000;
+	margin:15px 0 3px 75px;
+}
+#content #spss img{
+	float: right;
+	margin-right: 40px;
+}
+#content #spss a{
+	margin: 15px 0 0 220px;
+}
+#content #excel h1{
+	margin: 15px 0 0 40px;
+	width: 191px;
+	height: 48px;
+	background: url(../images/logo2.png) no-repeat;
+	text-indent: -9999px;
+}
+#content #excel span{
+	display: inline-block;
+	margin: 15px 0 0 60px;
+}
+#content #excel h3{
+	color: #000;
+	margin:15px 0 3px 75px;
+}
+#content #excel img{
+	float: right;
+	margin-right: 20px;
+}
+#content #excel a{
+	color: #333;
+	display: inline-block;
+	margin: 3px 0 0 200px;
+}
+#content #R h1{
+	margin: 15px 0 0 50px;
+	width: 205px;
+	height: 47px;
+	background: url(../images/logo3.png) no-repeat;
+	text-indent: -9999px;
+}
+#content #R span{
+	display: inline-block;
+	margin: 15px 0 0 60px;
+}
+#content #R h3{
+	color: #000;
+	margin:15px 0 3px 75px;
+}
+#content #R img{
+	float: right;
+	margin-right: 15px;
+}
+#content #R a{
+	margin: 25px 0 0 200px;
+}
+#content #matlab h1{
+	margin: 15px 0 0 50px;
+	width: 199px;
+	height: 39px;
+	background: url(../images/logo4.png) no-repeat;
+	text-indent: -9999px;
+}
+#content #matlab span{
+	display: inline-block;
+	margin: 15px 0 0 60px;
+}
+#content #matlab h3{
+	color: #000;
+	margin:15px 0 3px 75px;
+}
+#content #matlab img{
+	float: right;
+	margin-right: 20px;
+}
+#content #matlab a{
+	margin: 12px 0 0 200px;
+}
+#content #sql h1{
+	margin: 15px 0 0 50px;
+	width: 183px;
+	height: 50px;
+	background: url(../images/logo5.png) no-repeat;
+	text-indent: -9999px;
+}
+#content #sql span{
+	display: inline-block;
+	margin: 15px 0 0 60px;
+}
+#content #sql img{
+	float: right;
+	margin-right: 15px;
+}
+#content #sql h3{
+	color: #000;
+	margin:15px 0 3px 75px;
+}
+#content #sql a{
+	margin: 12px 0 0 200px;
+}
+#content #modeler h1{
+	margin: 15px 0 0 50px;
+	width: 256px;
+	height: 48px;
+	background: url(../images/logo6.png) no-repeat;
+	text-indent: -9999px;
+}
+#content #modeler span{
+	display: inline-block;
+	margin: 15px 0 0 60px;
+}
+#content #modeler img{
+	float: right;
+	margin-right: 15px;
+}
+#content #modeler h3{
+	color: #000;
+	margin:15px 0 3px 75px;
+}
+#content #modeler a{
+	margin: 12px 0 0 200px;
+}
